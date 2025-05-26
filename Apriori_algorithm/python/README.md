@@ -9,6 +9,7 @@ The main operator I used in this project is set-union and set-intersection.
 ### command
 ---
 $ python3 apriori.py (min_support) (Input File name) (Output File name)
+
 ex. $ python3 apriori.py 5 input.txt output.txt
 (Unless output file, input file should exist in the root directory.)
 
